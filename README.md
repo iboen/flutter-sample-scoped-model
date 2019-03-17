@@ -1,6 +1,6 @@
-# scopedmodel
+# A Flutter Sample using Scoped Model
 
-A new Flutter application.
+This is a very simple Flutter application that showing how to implement scoped model for the app state.
 
 ## Getting Started
 
